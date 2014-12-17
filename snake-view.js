@@ -18,7 +18,7 @@
         clearInterval(step);
         $(".over").css("top", "100px")
       }
-    }, 400)
+    }, 100)
   }
   
   View.prototype.bindEvent =  function () {
